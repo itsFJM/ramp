@@ -1,4 +1,5 @@
 # Introduction
+
 Ramp's API gives you the building blocks to automate financial workflows, integrate Ramp into your systems, and build next-generation finance applications. Whether you're connecting your ERP, building AI agents, or creating embedded finance experiences, Ramp provides the programmable execution layer for modern finance teams.
 
 With the API, you can:
@@ -10,15 +11,17 @@ With the API, you can:
 - Build apps that integrate directly with Ramp and distribute them through the App Center
 
 ### Quick Links
-- Getting Started Guide – Make your first API call in minutes
-- Single-Use Cards Guide – Build embedded payment solutions
-- Accounting Integration Guide – Connect your ERP or accounting system
-- Ramp MCP – Talk to your Ramp data using AI, no code required
-- All Guides – Explore guides for common use cases
+
+- [Getting Started Guide](https://docs.ramp.com/developer-api/v1/guides/getting-started) – Make your first API call in minutes
+- [Single-Use Cards Guide](https://docs.ramp.com/developer-api/v1/guides/single-use-cards) – Build embedded payment solutions
+- [Accounting Integration Guide](https://docs.ramp.com/developer-api/v1/guides/accounting) – Connect your ERP or accounting system
+- [Ramp MCP](https://docs.ramp.com/developer-api/v1/guides/ramp-mcp-remote) – Talk to your Ramp data using AI, no code required
+- [All Guides](https://docs.ramp.com/developer-api/v1/guides/) – Explore guides for common use cases
 
 ### App Center
+
 Ramp's App Center is home to trusted, high-quality integrations that help businesses streamline their financial operations. Technology partners can build specialized solutions and publish them for access by tens of thousands of businesses. Learn more about building apps for Ramp.
 
-Need help? Email us at developer-support@ramp.com↗
+Need help? Email us at [developer-support@ramp.com](mailto:developer-support@ramp.com)↗
 
 Tip: Include the x-trace-id from response headers for quicker issue resolution.
